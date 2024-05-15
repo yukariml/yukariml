@@ -1,4 +1,6 @@
-### Hi there 👋
+### hello i'm yukari!!
+
+i'm a cs student in my ml learning journey!! this is my github to save everything i'm working on :)
 
 <!--
 **yukariml/yukariml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
